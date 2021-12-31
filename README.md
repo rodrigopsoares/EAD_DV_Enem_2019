@@ -13,8 +13,7 @@ Serão avaliados
 
 
 ## Conjunto de Dados:
-
-- ``SG_UF_RESIDENCIA`` - Sigla da unidade da Federação da residência do participante
+ - ``SG_UF_RESIDENCIA`` - Sigla da unidade da Federação da residência do participante
  - ``TP_SEXO`` - Sexo do participante
  - ``TP_ESTADO_CIVIL`` - Estado civil do participante
  - ``TP_COR_RACA`` - Cor/Raça do participante

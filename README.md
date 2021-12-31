@@ -1,1 +1,5 @@
-# EAD_DV_Enem_2019
+# Análise Exploratória e Visualização de Dados
+
+Autor: Rodrigo Pompermayer Soares
+
+* Análise Exploratória: Python 

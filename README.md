@@ -3,6 +3,7 @@
 Autor: Rodrigo Pompermayer Soares
 
 * Linguagem: Python 
+* Visualização de dados: Power BI
 
 ## Objetivo:
 Neste projeto será realizada uma análise exploratória dos microdados do Enem 2019, fornecidos no próprio [site do INEP](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem).
@@ -23,3 +24,6 @@ foram feitas diversas análises, em um primeiro momento, utilizando os dados de 
  - ``NU_NOTA_LC`` - Nota da prova de Linguagens e Códigos
  - ``NU_NOTA_MT`` - Nota da prova de Matemática
  - ``NU_NOTA_REDACAO`` - Nota da prova de Redação
+
+## Visualização do Dashboard:
+A visualização do dashboard está disponível no [Power](https://app.powerbi.com/view?r=eyJrIjoiODVlN2ZiNDItMWJkYS00ZDBkLWFjNmMtYzNhOGI0YzBkYmY4IiwidCI6IjQxMmNlZTEzLTcwMzQtNDNkOS04MzRmLWQyNjk5ZDFiNjg5ZiJ9&pageName=ReportSection) BI, pelo link fornecido.
